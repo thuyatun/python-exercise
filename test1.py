@@ -1,1 +1,1 @@
-print ("hello"*3)
+print ("mingalar bar"*3)
