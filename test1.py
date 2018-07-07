@@ -1,1 +1,2 @@
-print ("welcome mdy"*3)
+print ("mingalar bar"*3)
+
