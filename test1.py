@@ -1,1 +1,1 @@
-print ("hello"*3)
+print ("welcome mdy"*3)
